@@ -127,3 +127,5 @@ ZeroDivisionError: division by zero
 + We can integrate API to help with automation of certain tasks
 
 + And finally to create a secure environment and ensure secure login and data encryption we could use a tool such as OAuth.
+
+done

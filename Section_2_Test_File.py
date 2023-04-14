@@ -19,3 +19,5 @@ def test_is_isogram():
     print("All test cases passed")
 
 test_is_isogram()
+
+done
